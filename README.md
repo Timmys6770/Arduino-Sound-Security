@@ -12,8 +12,6 @@ This project detects glass breaking sounds using a TensorFlow Lite model and tri
 2. Run `sound_detection.py` in Python.  
 3. If glass breaking is detected, the system will activate security LEDs.  
 
-## Video Demonstration  
-*[Link to be added after recording]*  
 # Arduino Sound Security System
 
 This project detects glass-breaking sounds using a TensorFlow Lite model and an Arduino-based LED alert system.
