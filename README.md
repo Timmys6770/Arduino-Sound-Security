@@ -33,6 +33,4 @@ This project detects glass-breaking sounds using a TensorFlow Lite model and an 
 - Play a glass-breaking sound to trigger the system.
 - Enter the correct PIN when prompted.
 
-## Video Demonstration
-🔗 **[Watch the Demo Here](YOUR_VIDEO_LINK_HERE)**
 
